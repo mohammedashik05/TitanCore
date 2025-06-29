@@ -528,7 +528,7 @@ button {
   text-align: center;
   position: relative;
   overflow: hidden;
-  height: 100vh;
+  /* height: 100vh; */
 }
 #testimonials .title{
   padding-bottom: 50px;
@@ -923,10 +923,6 @@ button {
   }
    #products .title {
     font-size: 2rem;
-  }
-  .testimonials{
-    height: 100vh;
-    padding-bottom: 20px;
   }
 
 }
